@@ -19,3 +19,5 @@ ssh -T git@github.com
 7、在pub文件中copy key，添加当GitHub中的SSH keys
 
 8、ssh -T git@github.com进行验证出现错误：Permission denied (publickey).
+
+3433
