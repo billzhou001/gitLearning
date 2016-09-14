@@ -21,4 +21,4 @@ ssh -T git@github.com
 8、ssh -T git@github.com进行验证出现错误：Permission denied (publickey).
 
 change
-ok 个么差不多勒
+ok 个么差不多勒！！
