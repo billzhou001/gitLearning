@@ -22,3 +22,19 @@ ssh -T git@github.com
 
 change
 ok 个么差不多勒
+
+replace the thinkphp README with my project introduction
+git push -u origin master
+To git@github.com:xyxzfj/luman-blog.git
+ ! [rejected]        master -> master (non-fast-forward)
+ 
+会失败，因为github repo上的master已经有了一个.gitignore。
+强制覆盖就好了：
+git push -fu origin master
+
+
+
+
+
+
+
